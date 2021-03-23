@@ -5,15 +5,15 @@ This repository was created to store my exploration through Modular and MobX pos
 ## Versions
 
 ### Flutter
-Flutter: 2.0.3 (stable)
+Flutter: 2.0.3 (stable)\
 Dart: 2.12.2 (stable)
 ### MobX
-mobx: 2.0.0-nullsafety.5
-flutter_mobx: 2.0.0-nullsafety.3
-build_runner: 1.12.2
+mobx: 2.0.0-nullsafety.5\
+flutter_mobx: 2.0.0-nullsafety.3\
+build_runner: 1.12.2\
 mobx_codegen: 2.0.0-nullsafety.2
 ### Modular
-flutter_modular: 3.0.1
+flutter_modular: 3.0.1\
 modular_codegen: 3.0.0
 
 ## Getting Started
